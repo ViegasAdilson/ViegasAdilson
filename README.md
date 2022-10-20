@@ -11,12 +11,10 @@ I am positive, hardworking, enthusiastic, committed, professional self motivate,
 ### Email: viegadilson@gmail.com
 ### Portfolio: https://viegasadilson.github.io/portfolio/index.html
 ### Linkedin: https://www.linkedin.com/uas/login-submit
-<div>
-<a href="viegadilson@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"/></a>
-</div>
-<a href=""><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:viegadilson@gmail.com)
+[<img src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](target="_blank" https://viegasadilson.github.io/portfolio/index.html)
+
 ## TECNICAL SKILLS
 <div>
 <img width="50" hight="50" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
