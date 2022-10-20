@@ -14,6 +14,9 @@ I am positive, hardworking, enthusiastic, committed, professional self motivate,
 ### Portfolio: https://viegasadilson.github.io/portfolio/index.html
 ### Linkedin: https://www.linkedin.com/uas/login-submit
 
+<a href=""><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
+
+<img width="40" hight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 ## TECNICAL SKILLS
 - Java, 
