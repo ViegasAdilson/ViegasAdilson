@@ -16,17 +16,18 @@ I am positive, hardworking, enthusiastic, committed, professional self motivate,
 </div>
 <a href=""><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 
-<img width="40" hight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](viegadilson@gmail.com)
 
 ## TECNICAL SKILLS
-- Java, 
-- C#, 
-- Python,
-- JavaScripts
-- MySQL,
-- Bootstraps,
-- Django,
-- Flask,
-- Panda,
-- Windows,
-- Linux.
+<div>
+<img width="50" hight="50" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
+<img width="40" hight="40" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
+<img width="40" hight="40" margin-left="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+<img width="40" hight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
