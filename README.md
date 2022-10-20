@@ -16,8 +16,7 @@ I am positive, hardworking, enthusiastic, committed, professional self motivate,
 </div>
 <a href=""><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](viegadilson@gmail.com)
-
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:viegadilson@gmail.com)
 ## TECNICAL SKILLS
 <div>
 <img width="50" hight="50" margin-right="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
