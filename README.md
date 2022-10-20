@@ -1,14 +1,29 @@
-### Hi there 👋
 
-**ViegasAdilson/ViegasAdilson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Adilson Viegas
 
-Here are some ideas to get you started:
+## Junior Software / Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hello, my name is Adilson Viegas, I have a degree in computer science, and I seek to acquire professional experience, I seek the opportunity to put into practice what I have learned over the years.
+
+A Software Engineering graduate in [AUTONOMOUS UNIVERSITY OF LISBON](https://autonoma.pt/en/courses/computer-science-and-engineering/) with fundamental knowledge of software development life cycle, Planning, Requirements, Design, Development, Testing and Integration, Maintenance.
+
+I am positive, hardworking, enthusiastic, committed, professional self motivate, fast learner with ability to quickly adjust the new responsibility in diverse environment and strong time management and multi-tasking skills. Strong work ethic in team or individual settings product success and process efficiency
+
+### Telephone: 07831185225
+### Email: viegadilson@gmail.com
+### Portfolio: https://viegasadilson.github.io/portfolio/index.html
+### Linkedin: https://www.linkedin.com/uas/login-submit
+
+
+## TECNICAL SKILLS
+- Java, 
+- C#, 
+- Python,
+- JavaScripts
+- MySQL,
+- Bootstraps,
+- Django,
+- Flask,
+- Panda,
+- Windows,
+- Linux.
