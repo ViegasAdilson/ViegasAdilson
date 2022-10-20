@@ -13,7 +13,7 @@ I am positive, hardworking, enthusiastic, committed, professional self motivate,
 ### Linkedin: https://www.linkedin.com/uas/login-submit
 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:viegadilson@gmail.com)
-[<img src="	https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://viegasadilson.github.io/portfolio/index.html)
+[<img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/>](https://viegasadilson.github.io/portfolio/index.html)
 
 ## TECNICAL SKILLS
 <div>
