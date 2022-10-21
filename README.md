@@ -3,7 +3,7 @@
 
 ## Junior Software / Web Developer
 
-Hello, my name is Adilson Viegas, I have a degree in computer science, and I seek to acquire professional experience, I seek the opportunity to put into practice what I have learned over the years. Graduate in [AUTONOMOUS UNIVERSITY OF LISBON](https://autonoma.pt/en/courses/computer-science-and-engineering/) with fundamental knowledge of software development life cycle, Planning, Requirements, Design, Development, Testing and Integration, Maintenance.
+Hello, my name is Adilson Viegas, I have a degree in computer science, and I seek to acquire professional experience, I seek the opportunity to put into practice what I have learned over the years. Graduate in [AUTONOMOUS UNIVERSITY OF LISBON](https://autonoma.pt/en/courses/computer-science-and-engineering/) with fundamental knowledge of software development life cycle, Planning, Requirements, Design, Development, Testing and Integration, Maintenance.GRANT ALL PRIVILEGES ON *.* TO 'maria'@'localhost' WITH GRANT OPTION;
 
 
 ### Telephone: 07831185225
@@ -26,3 +26,5 @@ Hello, my name is Adilson Viegas, I have a degree in computer science, and I see
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>](#)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>](#)
 [<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>](#)
+
+![Snake animation]()
