@@ -3,7 +3,7 @@
 
 ## Junior Software / Web Developer
 
-Hello, my name is Adilson Viegas, I have a degree in computer science, and I seek to acquire professional experience, I seek the opportunity to put into practice what I have learned over the years. Graduate in [AUTONOMOUS UNIVERSITY OF LISBON](https://autonoma.pt/en/courses/computer-science-and-engineering/) with fundamental knowledge of software development life cycle, Planning, Requirements, Design, Development, Testing and Integration, Maintenance
+Hello, my name is Adilson Viegas, I have a degree in computer science, and I seek to acquire professional experience, I seek the opportunity to put into practice what I have learned over the years. Planning, Requirements, Design, Development, Testing and Integration, Maintenance
 
 
 ### Telephone: 07831185225
